@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Environment | How can data be used to predict the severity of natural disasters.| | | |
+| Productivity | How can data be used to determine how productive you were for a specific time period. | | | |
+| Education | How can data be used to select classes tailored to students to possibly improve grades or interest.| | | |
 
 ## Rubric
 
